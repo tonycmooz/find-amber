@@ -7,7 +7,8 @@ Let us scale the nation's current Amber Alert system. Using the abundance of tra
 
 ## How so?
 Team up with the Department of Justice and scale out the Amber Alert System with open source technologies like OpenCV. (https://www.amberalert.gov/)
-By building real-time license plate and car recognition software, we can create text alerts to local police departments with detailed images, time of capture and location of the vehicle. They can then dispatch officers to find the child abductors and hopefully reunite these families.
+
+By building real-time license plate and car recognition, we can create text alerts to local police departments with images, time of video capture and location of the vehicle. They can then dispatch officers to find the child abductors and hopefully reunite these families.
 
 ## Contributing
 Have an optimization, idea, suggestion, bug report? Pull requests greatly appreciated!
